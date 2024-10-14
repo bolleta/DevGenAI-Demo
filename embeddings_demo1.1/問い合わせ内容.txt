@@ -1,0 +1,24 @@
+
+クエリを入力 もしくは quit を入力し終了:  Architecting on AWS は何日間コースですか？
+
+クエリ: Architecting on AWS は何日間コースですか？
+質問に回答できるドキュメント: Architecting on AWS は 3日間コースです。
+
+Similarity vector used for document selection
+[0.77850713 0.78222663 0.67976166 0.94469069 0.52981231]
+
+クエリを入力 もしくは quit を入力し終了:  Amazon SageMaker Studio for Data Scientistsは何日間コースですか？
+
+クエリ: Amazon SageMaker Studio for Data Scientistsは何日間コースですか？
+質問に回答できるドキュメント: Building Data Lakes on AWS は1日コースです。
+
+Similarity vector used for document selection
+[0.70040919 0.79369476 0.78197438 0.69567273 0.56200985]
+
+クエリを入力 もしくは quit を入力し終了:  車のタイヤを変えるにはどうしたらいいですか？
+
+クエリ: 車のタイヤを変えるにはどうしたらいいですか？
+回答: わかりません。
+
+Similarity vector used for document selection
+[0.41866008 0.4184342  0.3074801  0.41272217 0.28333082]

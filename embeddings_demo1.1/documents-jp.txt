@@ -1,0 +1,5 @@
+MLOps Engineering on AWS は３日間コースです。
+Building Data Lakes on AWS は1日コースです。
+Authoring Visual Analytics using Amazon QuickSight は２日間コースです。
+Architecting on AWS は 3日間コースです。
+Planning and Designing Databases は３日間コースです。
